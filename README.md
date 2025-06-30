@@ -81,4 +81,4 @@ Endereço 0x23: Sensor de Luminosidade BH1750
 
 ## ✍️ Autor
 
-**ASCCJR**
+[ASCCJR]
