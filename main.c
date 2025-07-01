@@ -27,7 +27,7 @@ const I2CDevice known_devices[] = {
     {0x76, "Sensor de Pressao/Temp BMP280 (SDO em GND)"},
     {0x38, "Sensor de Umidade e Temperatura AHT10"},
     {0x57, "Oximetro de Pulso / Batimentos Cardiacos MAX30100"},
-    {0x6B, "Dispositivo Integrado na Placa (Provavelmente IMU no I2C 0)"}
+    {0x6B, "Dispositivo Integrado na Placa (Provavelmente chip carregador de bateria que está conectado na i2c-0)"}
 };
 const int num_known_devices = sizeof(known_devices) / sizeof(known_devices[0]);
 
